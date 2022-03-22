@@ -37,7 +37,7 @@ Responsibly and conscientiously I treat the assigned tasks, I am ready to learn 
 
 ##### CODE EXAMLE
 
-**function Weather API for calendar app:**
+*function Weather API for calendar app:*
 
 async function weather() {
     
